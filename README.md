@@ -6,7 +6,7 @@ The Bot and the tracks are custom made and files are included. The bot has 2 mot
 
 
   
-<p align="center"><img src="https://raw.githubusercontent.com/rrishabh23/Webots_LFR/main/LFR_track1.gif?raw=true" alt=">Simulation on Track 1 "/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrishabh23/Webots_LFR/main/LFR_track1.gif?raw=true" alt="Simulation on Track 1 "/></p>
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/rrishabh23/Webots_LFR/main/LFR_track2.gif?raw=true" alt="Simulation on Track 2 "/></p>
