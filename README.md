@@ -6,7 +6,9 @@ The Bot and the tracks are custom made and files are included. The bot has 2 mot
 
 
 Simulation on Track 1
+
 ![Sim1.](/LFR_track1.gif)
 
 Simulation on Track 2
+
 ![Sim2. ](/LFR_track2.gif)
